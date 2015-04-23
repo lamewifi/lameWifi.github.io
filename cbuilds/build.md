@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: build
 title: Computer Options
 comments: false
 share: false
@@ -20,6 +20,7 @@ _________________________________________________
 |HardDrive:	  |		|		|
 |Case:		  |	Thermaltake Versa H22	|$39.99		|
 |OS:		  |		|		|
+|Total:		  |   	| 		|
 
 
 *Pricing is part of a bundle. 
@@ -36,6 +37,7 @@ _________________________________________________
 |HardDrive:	  |		|		|
 |Case:		  |	Corsair Carbide Series Spec-02	|$49.99		|
 |OS:		  |		|		|
+|Total:		  |   	| 		|
 
 
 
@@ -54,6 +56,7 @@ _________________________________________________
 |HardDrive:	  |		|		|
 |Case:		  |	Corsair Carbide Series Spec-02	|$49.99		|
 |OS:		  |		|		|
+|Total:		  |   	| 		|
 
 
 

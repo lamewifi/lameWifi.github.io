@@ -61,4 +61,3 @@ You're going to be able to play all new games like [BattleField 4](https://www.o
 
 
 
-####All totals include a $100.00 construction fee

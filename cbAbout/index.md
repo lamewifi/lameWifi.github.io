@@ -1,5 +1,5 @@
 ---
-layout: cbPage
+layout: post
 title: Lame Machines
 comments: false
 share: false

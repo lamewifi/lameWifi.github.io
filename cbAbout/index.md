@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Lame Machines
 comments: false
 share: false

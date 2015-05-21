@@ -11,7 +11,7 @@ import java.text.SimpleDateFormat;
 import java.util.Formatter;
 
 /**
- * Created by Austin, Clayton, Ashley on 4/25/2015.
+ * Created by Austin on 4/25/2015.
  */
 public class GuiLayout extends JFrame implements DocumentListener {
 
